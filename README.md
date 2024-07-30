@@ -32,3 +32,6 @@ The model is evaluated using the following metrics:
 The script generates the following visualizations:
 - **Confusion Matrix:** Shows the true positive, true negative, false positive, and false negative predictions.
 - **ROC Curve:** Plots the True Positive Rate against the False Positive Rate.
+
+## Conclusion
+This project demonstrates a robust approach to predicting diabetes using Gradient Boosting, leveraging advanced machine learning techniques to achieve accurate results. The implementation showcases the use of supervised learning in healthcare applications.
